@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="180"/>
 </p>
 
